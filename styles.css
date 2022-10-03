@@ -1,0 +1,23 @@
+[class*="col"] {
+    height: 50px;
+    width: 20px;
+    background-color: rgb(0, 0, 0);
+    color: transparent;
+    text-align: center;
+}
+
+.blackBg {
+background-color: black;
+}
+.greyBg {
+background-color: grey;
+}
+.whiteBg {
+background-color: white;
+}
+.orangeBg {
+background-color: orange;
+}
+.yellowBg {
+background-color: yellow;
+}
